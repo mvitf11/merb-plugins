@@ -1,1 +1,1 @@
-Add YOLOv9 Docs page (#8478)
+Add object blurring & object cropping modules in Ultralytics docs (#7434)
