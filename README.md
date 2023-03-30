@@ -1,1 +1,1 @@
-Add docstrings to new HUB functions (#7576)
+ultralytics 8.1.22 HUB model pathlib fix (#8621)
