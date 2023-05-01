@@ -1,1 +1,1 @@
-ultralytics 8.1.11 expand OpenVINO INT8 ops for improved mAP (#7516)
+Conda cv2 ImportError libEGL.so.1 fix (#9255)
