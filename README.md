@@ -1,1 +1,1 @@
-Update HTTP to HTTPS (#7548)
+Embed Heatmaps YouTube video in Ultralytics Docs (#7129)
