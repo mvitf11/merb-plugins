@@ -1,1 +1,1 @@
-ultralytics 8.1.25 OpenVINO LATENCY and THROUGHPUT modes (#8058)
+Add Non-Maximum Suppression (NMS) inplace flag (#8368)
