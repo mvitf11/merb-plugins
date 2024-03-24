@@ -1,1 +1,1 @@
-Merge pull request #22 from SkalskiP/patch-1
+Expand Model method type hinting (#8279)
