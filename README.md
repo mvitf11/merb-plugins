@@ -1,1 +1,1 @@
-Fix ONNX GPU inference bug (#6840)
+Fix OBB xywh-angle concatenation bug (#7404)
