@@ -1,1 +1,1 @@
-Bounding Box to OBB conversion (#7572)
+Add C++ Classify inference example (#6868)
