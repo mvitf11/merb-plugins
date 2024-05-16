@@ -1,1 +1,1 @@
-Add speed_estimation and distance_calculation in ultralytics solutions (#7325)
+Update YOLOv3 and YOLOv5 YAMLs (#7574)
