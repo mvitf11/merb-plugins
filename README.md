@@ -1,1 +1,1 @@
-Object Counter improvements (#8648)
+Resize angle, count, and stage on keypoint number change (#7598)
