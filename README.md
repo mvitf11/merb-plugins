@@ -1,1 +1,1 @@
-Add PR Summary step to Ultralytics Actions (#7675)
+Fix bbox2segment converter (#7814)
