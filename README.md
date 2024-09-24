@@ -1,1 +1,1 @@
-ultralytics 8.0.238 Explorer Ask AI feature and fixes (#7408)
+ultralytics 8.1.28 avoid * ops on bool Tensors for RT-DETR OpenVINO export (#8937)
